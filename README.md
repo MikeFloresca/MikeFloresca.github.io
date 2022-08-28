@@ -16,9 +16,12 @@ Viewing challenges as an opportunity to expand your knowledge. Instead of avoidi
 
 Start off with something small and build up to it. Wether it be reading a book or watching videos to expand your knowledge.
 Read a chapter or two a day and continue to build on that habit. It only takes a couple of weeks to build a habit but it must come 
-with some ***effort***
+with some ***effort***.
 
 - _Perspective_
+
+How you view things can play a big role on your growth mindset. What some may see as a failure you see as a learning oppurtunity.
+Perspective impacts your potential, it's a story you tell yourself and others.
 
 
 
