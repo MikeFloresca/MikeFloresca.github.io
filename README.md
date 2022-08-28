@@ -7,6 +7,8 @@ That you can get better in anything if you put your energy and effort into. Achi
 by embracing challenges and criticism and learning skills along the way allowing you to reach your full potential.
 
 
+### 3 Reminders to stay in that mindset
+
 
 
 
