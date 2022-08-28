@@ -1,2 +1,3 @@
 # mikefloresca.github.io
-## Growth Mindset 
+
+## What Growth Mindset Means
