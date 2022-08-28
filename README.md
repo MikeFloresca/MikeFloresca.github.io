@@ -18,6 +18,8 @@ Start off with something small and build up to it. Wether it be reading a book o
 Read a chapter or two a day and continue to build on that habit. It only takes a couple of weeks to build a habit but it must come 
 with some ***effort***
 
+- _Perspective_
+
 
 
 
