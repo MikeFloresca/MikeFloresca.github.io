@@ -1,2 +1,2 @@
 # mikefloresca.github.io
-##Growth Mindset 
+## Growth Mindset 
