@@ -8,6 +8,7 @@ by embracing challenges and criticism and learning skills along the way allowing
 
 
 ### 3 Reminders to stay in that mindset
+- Challenges
 
 
 
