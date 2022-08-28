@@ -10,7 +10,9 @@ by embracing challenges and criticism and learning skills along the way allowing
 ### 3 Reminders to stay in that mindset
 - _Challenges_
 
-Viewing challenges as an oppotunity instead of an obstabcle
+Viewing challenges as an opportunity to expand your knowledge. Instead of avoiding it, embrace it!
+
+- _Perspective_
 
 
 
