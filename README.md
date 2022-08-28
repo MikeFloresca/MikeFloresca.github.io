@@ -12,7 +12,13 @@ by embracing challenges and criticism and learning skills along the way allowing
 
 Viewing challenges as an opportunity to expand your knowledge. Instead of avoiding it, embrace it!
 
-- _Perspective_
+- _Creating a habit_
+
+Start off with something small and build up to it. Wether it be reading a book or watching videos to expand your knowledge.
+Read a chapter or two a day and continue to build on that habit. It only takes a couple of weeks to build a habit but it must come 
+with some ***effort***
+
+
 
 
 
