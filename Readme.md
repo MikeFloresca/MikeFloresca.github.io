@@ -1,5 +1,7 @@
 # mikefloresca.github.io
 
+*Hi my name is Mike, follow me on my journey on learning how to code*
+
 ## **Growth Mindset**
                                                                                                              
 I believe growth mindset is the idea that you can learn and develop abilities with effort and persistince.
@@ -30,7 +32,7 @@ Perspective impacts your potential, it's a story you tell yourself and others.
 
 
 
-
+[Github Profile](https://github.com/MikeFloresca)
 
 
 
