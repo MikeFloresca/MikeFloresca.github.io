@@ -1,4 +1,4 @@
-# mikefloresca.github.io
+# My CodeFellows Reading Notes
 
 *Hi my name is Mike, follow me on my journey on learning how to code*
 
