@@ -26,6 +26,8 @@ How you view things can play a big role on your growth mindset. What some may se
 Perspective impacts your potential, it's a story you tell yourself and others.
 
 
+## **Table of Contents**
+
 
 
 ##### [Source](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
