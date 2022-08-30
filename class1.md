@@ -1,4 +1,4 @@
-# Class 2 - The Coders Computer
+# Class 1 - The Coders Computer
 
 ## Text Editor
 
