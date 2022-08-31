@@ -1,15 +1,25 @@
-# Notes for read 05
+# Notes for Read 04
 
-## What is CSS?
+## WireFrame and HTML
 
-*Cascading stlye sheets allows you to create great looking we pages. Using CSS we will be able to control how HTML elements look in the browser.*
+ *What is a wireframe? Wireframing is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product.*
 
-## What is CSS for?
+    **The best tools for wireframing**
 
-*CSS is a language for specifying how documents are presented to users,how they are styled,laid out,etc.*
+    * Pen and paper
+    * UxPin
+    * InVision
+    * Wireframe.cc
 
-## 3 ways to add CSS
+    **6 Steps do to do a wireframe**
 
-* External CSS
-* Internal CSS
-* Inline CSS
+       1. Do your research
+       2. Prepare research for quick reference
+       3. Make sure you have a user flow mapped out
+       4. Draft, don't draw. Sketch, don't illustrate
+       5. Add detail and get testing.
+       6. Start turning wireframe into protoype
+
+    **What is HTML?*
+
+    *HTML is a markup language that defines the structure of your content. HTML consist of a series of elements, which you use to enclose, or wrap, different parts of the content to make a certain wat, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.
