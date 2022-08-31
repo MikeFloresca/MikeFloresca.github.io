@@ -30,6 +30,8 @@ Perspective impacts your potential, it's a story you tell yourself and others.
 - [Read 2](https://mikefloresca.github.io/reading-notes/class2)
 - [Read 3](https://mikefloresca.github.io/reading-notes/class3)
 - [Read 4](https://mikefloresca.github.io/reading-notes/class4)
+- [Read 5](https://mikefloresca.github.io/reading-notes/class5)
+- [Read 6](https://mikefloresca.github.io/reading-notes/class6)
 
 [Source](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
